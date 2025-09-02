@@ -13,8 +13,8 @@
 
 ## Bases de dades
 
-- Utilitza la base de dades <b>INETPRE</b> per a treure les dades del personal actiu en À Punt (Srvsqlpre.cvmc.es). Taules datospers i versiones.
-- La base de dades que gestiona l'aplicació és <b>SIGI_JMS</b>. Aquesta base de dades haurem de canviar-la per una base de dades nova per al nostre projecte.
+- Utilitza la base de dades <b>INET</b> per a treure les dades del personal actiu en À Punt. Taules datospers i versiones.
+- La base de dades que gestiona l'aplicació és <b>SIGI_JMS</b>.
 
 ## Formularis CRUD i camps de cerca
 
